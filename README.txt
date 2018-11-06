@@ -7,6 +7,8 @@ Have fun, and enjoy GitHub Enterprise - It's a great place to store your code, a
 
 Feel free to create as many Projects, Teams and Repositories as you like (there are no limits).
 
-If you want to experiment with running your code on a cloud host, I'll be creating a tutorial on how to use GitHub Actions (like GitLab Runners) for executing your code within containers on our Kubernetes cloud host (cloud.triosdevelopers.com) soon! Stay tuned!
+If you want to experiment with running your code on a cloud host, I'll be creating a tutorial on how to use 
+GitHub Actions (like GitLab Runners) for executing your code within containers on our Kubernetes cloud 
+host (cloud.triosdevelopers.com) soon! Stay tuned!
 Cheers,
 Jason.
